@@ -1,4 +1,4 @@
-var message;
-message = 'Valerii+++++';
-console.log(message);
-console.log("TS Program");
+let first_name = `Іван`;
+let admin
+admin = first_name;
+console.log(admin);
