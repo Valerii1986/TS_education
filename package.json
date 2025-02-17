@@ -1,0 +1,14 @@
+{
+  "name": "ts-project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000S\u0000_\u0000e\u0000d\u0000u\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "node lesson1\task1.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
